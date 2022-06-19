@@ -1,0 +1,10 @@
+[
+  {
+    "package": "modelgrid",
+    "oncran": true
+  },
+  {
+    "package": "recorder",
+    "oncran": true
+  }
+]
