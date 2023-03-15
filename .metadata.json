@@ -6,5 +6,9 @@
   {
     "package": "recorder",
     "oncran": true
+  },
+  {
+    "package": "trimmer",
+    "oncran": true
   }
 ]

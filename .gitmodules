@@ -13,3 +13,8 @@
 	url = https://github.com/smaakage85/recorder
 	shallow = true
 	registered = true
+[submodule "trimmer"]
+	path = trimmer
+	url = https://github.com/smaakage85/trimmer
+	shallow = true
+	registered = true
