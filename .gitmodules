@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "recorder"]
 	path = recorder
 	url = https://github.com/smaakage85/recorder
-	shallow = true
-	registered = true
 [submodule "trimmer"]
 	path = trimmer
 	url = https://github.com/smaakage85/trimmer
-	shallow = true
-	registered = true
