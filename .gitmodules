@@ -5,6 +5,3 @@
 [submodule "recorder"]
 	path = recorder
 	url = https://github.com/smaakage85/recorder
-[submodule "trimmer"]
-	path = trimmer
-	url = https://github.com/smaakage85/trimmer
